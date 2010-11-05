@@ -1,5 +1,5 @@
 Ad Mute
 
-This is a very small AutoHotKey script designed to mute your computer's audio in small increments. Press Ctrl+Mute to mute for 30 seconds, or Alt+Mute to mute for 15 seconds. You can run the stand-alone executable file, or run the .ahk after installing AutoHotKey from http://www.autohotkey.com/.
+This is a very small AutoHotKey script designed to mute your computer's audio for small increments of time. Press Ctrl+Mute to mute for 30 seconds, or Alt+Mute to mute for 15 seconds. You can run the stand-alone executable file, or run the .ahk after installing AutoHotKey from http://www.autohotkey.com/.
 
 The key mapping I specified is probably particular to just ThinkPads, you may need to change the key codes used if your computer came from a different manufacturer. See the comments for details.
